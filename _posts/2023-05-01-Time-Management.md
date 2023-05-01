@@ -7,7 +7,7 @@ tags: [time management, life skills, course writeup]     # TAG names should alwa
 
 I recently attended a workshop on time management that was ran by a local job agency, it was quite interesting and has inspired me to give an overview from it.
 
-# Overview
+## Overview
 
 Timekeeping is simply the practice of being able to get done what's important within the correct time frame and being where you need to be when you need to be there.
 
@@ -15,8 +15,8 @@ Being able to manage to do this helps to relieve stress, get more work done and 
 
 Below I've written up about two techniques from the course that I feel are the most effective.
 
-# Techniques
-## Routine
+## Techniques
+### Routine
 The biggest one when you're starting your journey in time management is to have some things as routine. Some people will suggest that you have to have everything on an exact down-to-the-minute schedule, however for most people this is unfeasible. Rather than this, I would recommend basing your routine off of one or two anchor points and then working everything else around them. The ones most studies recommended for this purpose are eating and sleeping.
 
 If you have a constant wake up time then your body will adjust the time that you need to go to sleep at naturally. It will help to boost your alertness, give an overall boost to your working ability and will help with falling asleep at night.
@@ -29,7 +29,7 @@ For myself, I have a timer on my phone which alerts me as to when I should be ea
 
 If you want to create it as a habit, then the use of "don't break the chain" type apps and similar concepts can be used. These use the streak concept that is so popular in social media to keep you coming back, where you get a dopamine rush from starting a streak that gets larger the longer the streak goes on until it becomes a habit.
 
-## Checklists
+### Checklists
 Keeping a checklist of tasks to do is another way of being able to manage your time better. However this is often one that gets overused and used in the wrong types of ways, people will have too many tasks, and the tasks will be too large to easily complete, leading to burnout and a general unwillingness and demotivation to complete any task.
 
 The best way of having a checklist is to have a few tasks that are bits of a bigger task or small things that can be completed easily.
