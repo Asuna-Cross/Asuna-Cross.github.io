@@ -48,6 +48,6 @@ The second piece of software that I used for all my installations is [Chocolatel
 
 While I didn't take this route myself, you can pair up Chocolately with a piece of software called [Boxstarter](https://boxstarter.org/) for a fully automated Windows set up if repeatability is what you want.
 
-Here is a tutorial from Windows Dev team as to how to use Boxstarter - https://devblogs.microsoft.com/cesardelatorre/automating-windows-environments-setup-with-boxstarter-and-chocolatey-packages/
+Here is a tutorial from Windows Dev team as to [how to use Boxstarter](https://devblogs.microsoft.com/cesardelatorre/automating-windows-environments-setup-with-boxstarter-and-chocolatey-packages/)
 
 I didn't go this route myself as my Windows machine won't be replicated that often, however if I do go the route of setting up Windows boxes and such for testing then it is an option that I will start to look at.
