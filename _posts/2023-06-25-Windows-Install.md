@@ -19,23 +19,20 @@ The machine came with Windows 11 built in already, during the set up it demanded
 
 To do so I did the following.
 
-
-
+``ctrl + F10``
 This is to bring up the command prompt while in the starting setup
 
 If you're at the screen where it is asking you to connect to an internet connection, then type in the following
-
-
+``OOBEBYPASSNRO``
 This will restart your machine and set you back to the beginning of the installation process.
 
 After you're back at the start, open up command prompt again and type in the following
-
-
+``ipconfig /release``
 This disconnects your internet temporarily.
 
 After doing this, when you get to the part where it requests to go online you will get the option to continue offline and thus skip adding an email address to your OS setup.
 
-Once that problem was out of the way the rest of the installation went smoothly. I was taken aback by the amount of additional tracking, and even adverts that Windows was informing me about for opting in or out of.
+Once that problem was out of the way the rest of the installation went smmothly. I was taken aback by the amount of additional tracking, and even adverts that Windows was informing me about for opting in or out of.
 
 The first thing to do after the installation was to install all the patches to Windows and my drivers, thankfully Windows has an in-built system for this, unfortunately they have removed command line support for this in Windows 11, so if you are doing this yourself then you will need to find it in the GUI.
 
@@ -53,4 +50,4 @@ While I didn't take this route myself, you can pair up Chocolately with a piece 
 
 Here is a tutorial from Windows Dev team as to how to use Boxstarter - https://devblogs.microsoft.com/cesardelatorre/automating-windows-environments-setup-with-boxstarter-and-chocolatey-packages/
 
-I didn't go this route myself as my Windows machine won't be replicated often, however if I do go the route of setting up Windows boxes and such for testing then it is an option that I will start to look at.
+I didn't go this route myself as my Windows machine won't be replicated that often, however if I do go the route of setting up Windows boxes and such for testing then it is an option that I will start to look at.
