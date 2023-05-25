@@ -19,19 +19,25 @@ The machine came with Windows 11 built in already, during the set up it demanded
 
 To do so I did the following.
 
-``ctrl + F10``
+```
+ctrl + F10
+```
 
 This is to bring up the command prompt while in the starting setup
 
 If you're at the screen where it is asking you to connect to an internet connection, then type in the following
 
-```OOBEBYPASSNRO```
+```powershell
+OOBEBYPASSNRO
+```
 
 This will restart your machine and set you back to the beginning of the installation process.
 
 After you're back at the start, open up command prompt again and type in the following
 
-```ipconfig /release```
+```powershell
+ipconfig /release
+```
 
 This disconnects your internet temporarily.
 
