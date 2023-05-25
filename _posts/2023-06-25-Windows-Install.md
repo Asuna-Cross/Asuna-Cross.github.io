@@ -1,7 +1,7 @@
 ---
 title: Windows 11 Installation
 date: 2023-06-25 
-categories: [Operation Systems]
+categories: [Operation Systems, Windows]
 tags: [windows, os install]     # TAG names should always be lowercase
 ---
 
