@@ -1,6 +1,6 @@
 ---
 title: Windows 11 Installation
-date: 2023-05-01 
+date: 2023-06-24 
 categories: [Operating Systems, Windows]
 tags: [windows, os install]     # TAG names should always be lowercase
 ---
@@ -23,7 +23,7 @@ To do so I did the following.
 This is to bring up the command prompt while in the starting setup
 
 If you're at the screen where it is asking you to connect to an internet connection, then type in the following
-``OOBEBYPASSNRO``
+``OOBE\BYPASSNRO``
 This will restart your machine and set you back to the beginning of the installation process.
 
 After you're back at the start, open up command prompt again and type in the following
