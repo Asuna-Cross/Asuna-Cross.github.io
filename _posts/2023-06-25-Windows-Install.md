@@ -11,7 +11,7 @@ Recently I upgraded to a new laptop as my old one was no longer able to keep up 
 
 The new laptop has been duel booted with Linux and Windows, the next few posts will be details of how I set up both sides of my installation and how to duel boot based off of my experiences with the laptop.
 
-For reference, the laptop is from the MSI Katana range, this will be important to know when it comes to the duel booting segment.
+For reference, the laptop is from the MSI Katana range, this will be important to know when it comes to the duel booting segment in a future post.
 
 ## Windows Installation
 
