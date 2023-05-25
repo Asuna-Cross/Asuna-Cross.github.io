@@ -1,9 +1,16 @@
 ---
 title: Windows 11 Installation
-date: 2023-06-25 
-categories: [Operation Systems, Windows]
-tags: [windows, os install]     # TAG names should always be lowercase
+date: 2023-06-25 12:00:00 +01000
+categories: [Operating Systems, Windows]
+tags: [windows, installation, OS install]     # TAG names should always be lowercase
 ---
+
+#---
+#title: Windows 11 Installation
+#date: 2023-06-25 
+#categories: [Operation Systems, Windows]
+#t#ags: [windows, os install]     # TAG names should always be lowercase
+#---
 
 ## Background
 
