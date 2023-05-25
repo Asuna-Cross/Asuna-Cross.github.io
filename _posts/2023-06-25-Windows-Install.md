@@ -5,8 +5,6 @@ categories: [Operation Systems]
 tags: [windows, os install]     # TAG names should always be lowercase
 ---
 
-## Background
-
 Recently I upgraded to a new laptop as my old one was no longer able to keep up with the requests I was placing on it.
 
 The new laptop has been duel booted with Linux and Windows, the next few posts will be details of how I set up both sides of my installation and how to duel boot based off of my experiences with the laptop.
