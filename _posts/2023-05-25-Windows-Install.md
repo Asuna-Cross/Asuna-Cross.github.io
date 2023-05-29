@@ -32,7 +32,7 @@ This disconnects your internet temporarily.
 
 After doing this, when you get to the part where it requests to go online you will get the option to continue offline and thus skip adding an email address to your OS setup.
 
-Once that problem was out of the way the rest of the installation went smmothly. I was taken aback by the amount of additional tracking, and even adverts that Windows was informing me about for opting in or out of.
+Once that problem was out of the way the rest of the installation went smoothly. I was taken aback by the amount of additional tracking, and even adverts that Windows was informing me about for opting in or out of.
 
 The first thing to do after the installation was to install all the patches to Windows and my drivers, thankfully Windows has an in-built system for this, unfortunately they have removed command line support for this in Windows 11, so if you are doing this yourself then you will need to find it in the GUI.
 
