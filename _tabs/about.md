@@ -4,8 +4,10 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-A newcomer to the field of cyber security.
+A trainee penetration tester. 
 
-Here I'll be documenting things as I go, sharing the knowledge I'm gaining and the skills I'm learning.
+Currently self-teaching based off online materials until October when the Open University starts up for a distanced learning degree in Cyber Security.
 
-I will cover both the technical skills required for the field, as well as some of the softer and more general skills.
+Based in the United Kingdom, and open to jobs worldwide, with a particular interest in working in Japan or Korea.
+
+Speaks Native level English, learning Japanese.
