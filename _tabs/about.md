@@ -11,3 +11,5 @@ Currently self-teaching based off online materials until October when the Open U
 Based in the United Kingdom, and open to jobs worldwide, with a particular interest in working in Japan or Korea.
 
 Speaks Native level English, learning Japanese.
+
+This blog will cover techincal skills required to work in the technology field, as well as general employability skills.
