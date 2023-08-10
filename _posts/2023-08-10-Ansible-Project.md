@@ -1,5 +1,5 @@
 ---
-title: Automating Linux Installation Using Ansible - Part One - Code Creation
+title: Automating Linux Setup Using Ansible - Part One - Code Creation
 date: 2023-08-10
 categories: [Automation, Ansible]
 tags: [ansible, automation, os install, linux, project-write up]     # TAG names should always be lowercase
