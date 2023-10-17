@@ -9,7 +9,7 @@ tags: [ansible, automation, os install, linux, project-write up]     # TAG names
 This is a continuation of the previous post regarding how to set up a machine using Ansible.
 
 # Ansible
-## First Steps
+## Download Git and Ansible
 The first steps to getting the Ansible playbook running are to download git and Ansible onto the target machine.
 
 ## Clone Repo
